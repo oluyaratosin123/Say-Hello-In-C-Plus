@@ -14,11 +14,11 @@ Here in this demo I have created a log file that displays "hello world I am C!" 
 
 # Clone Project
 ```
-  git clone git@github:oluyaratosin123...
+  git clone git@github.com:oluyaratosin123/Say-Hello-In-C-Plus.git
 ```
 
 ```C
-  cd guess_me
+  cd cc_demo
 ```
 
 # Author
