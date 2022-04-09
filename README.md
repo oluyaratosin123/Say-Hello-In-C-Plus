@@ -1,5 +1,5 @@
 # Say-Hello-In-C-Plus
-Here in this demo I have created a log file that displays "hello world I am C!" in the terminal
+Here in this demo I have created a log file that displays "hello world I am C++!" in the terminal
 
 # Demo
 ![C](./assets/helloC%2B%2B.PNG)
